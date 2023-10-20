@@ -51,7 +51,7 @@ To install and run the Text-to-Speech Bot, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/Text-to-Speech-Bot.git
+git clone https://github.com/junaidjmomin/Text-to-Speech-Bot.git
 ```
 
 2. Navigate to the project directory:
