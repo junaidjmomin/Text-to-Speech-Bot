@@ -1,7 +1,6 @@
 # Text-to-Speech Bot
 
-![Text-to-Speech Bot](!https://fileserviceuploadsperm.blob.core.windows.net/files/file-HOOn3I5qkEjdgWJTLhYr9lny?se=2023-10-20T06%3A50%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=attachment%3B%20filename%3D577f8820-edc4-42fd-8d8c-b91d07c6df23.webp&sig=gTN2HsMYzRl74OW6UMfPlGQCvR2aCRhX9mFmqR4njdo%3D)
-)
+![Text-to-Speech Bot]
 
 ## Overview
 
