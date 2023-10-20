@@ -1,6 +1,6 @@
 # Text-to-Speech Bot
 
-![Text-to-Speech Bot]
+
 
 ## Overview
 
