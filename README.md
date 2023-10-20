@@ -1,6 +1,7 @@
 # Text-to-Speech Bot
 
-![Text-to-Speech Bot](text-to-speech-bot.png)
+![Text-to-Speech Bot](![image](https://github.com/junaidjmomin/Text-to-Speech-Bot/assets/121440706/62b36626-0a56-4a96-bd36-401b04a17018)
+)
 
 ## Overview
 
